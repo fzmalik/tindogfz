@@ -1,2 +1,1 @@
-# tindogfz
-testing designed website
+TinDog Starting Files
